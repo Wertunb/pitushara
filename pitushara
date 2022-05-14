@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   <title> Не много интерестного </title>
+</head>
+<body>
+    <table>
+<tr>
+<td>
+    <img src="20210212_161140.jpg" width="200"/>
+</td>
+<td>
+    <h1>Мой личный</h1> 
+    <h1>Я просто практикую по этому должно выйти не плохо</h1> 
+     
+</td>
+</tr>
+    </table>
+<h1>Тут будет не много общей инфы</h1>  
+<h2>Мои увлечения</h2>
+<hr color="black"/>
+<ul> 
+    <li>Спорт ( не плохой послужной список как оказываеться )</li> 
+    <li>Чтение ( подрузомеваеться вся литература и развлекательная)</li> 
+    <li>Японская тематика</li> 
+    <hr color="black"/>
+ </ul>
+ <h3>Именно потому будет чуток всего
+    <li>Анимэ</li>
+    <li>Спорт новости</li>
+    <li>Пару книг</li>
+    <li>контакты:</li>
+<hr color="black">
+ </h3>
+ <ul>
+     <li><a href="https://t.me/Rieltor_Rostislav" target="_blank">Телега</a></li>
+<li><a href="https://instagram.com/kucherenkorostik" target="_blank">Инста</a></li> 
+<hr color="black">
+ </ul>
+<h4>Бокс</h4>
+<ul>
+    <li><a href="http://127.0.0.1:5500/you.html" target="_blank">Спорт</a></li>
+<li><a href="file:///c:/Users/wertu/Desktop/%D1%84%D1%88/anime.html" target="_blank">Anime</a></li>
+<hr color="black">
+    <h3>опыт роботы</h3>
+    <table border="10">
+        <tr> 
+            <td>Приват Банк</td>
+            <td>Специалист</td>
+            <td>2015-2020</td>
+        </tr>
+        <tr>
+            <td>Авангард1</td>
+            <td>Риэлтор</td>
+            <td>2020-2022</td>
+        </tr>
+    </table>
+    <h6>Связаться сщ мной</h6>
+    <form>
+<label for="name">Ваше имя:</label>
+<input type="text" id="name" placeholder="введите ваше имя...">
+<br>
+<label for="email">For email:</label>
+<input type="text" id="email" placeholder="введите ваш email..."> 
+<br>
+<input type="submit" value="жмакай">
+<br>
+<label for="text">Ваше сообщение:</label>
+<br> 
+<textarea name="" id="text" cols="20" rows="5"></textarea>
+    </form>
+</ul>
+   
+</body>
+
+</html>
